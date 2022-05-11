@@ -29,6 +29,8 @@ const base64Image = "iVBORw0KGgoAAAANSUhEUgAAAZAAAAEFCAIAAABCdiZrAAAACXBIWXMAAAs
                 $("#btnAddTable").click(InsertTable_New);
                 $("#btnCreateContentControl").click(CreateContentControl_New);
                 $("#btnReplaceContentControl").click(ReplaceContentInControl_New);
+                $("#btnCreateBulletedList").click(CreateBulletedList_New);
+                $("#btnFormatBulletedList").click(FormatBulletedList_New);
                 $("#OfficeVersion").html("This code is using word 2019 or later");
 
                 // #endregion 
@@ -344,6 +346,54 @@ function ReplaceContentInControl_New() {
             console.log('Debug info: ' + JSON.stringify(error.debugInfo));
         }
     });
+}
+
+function CreateBulletedList_New() {
+
+    Word.run(function (context) {
+        context.document.body.insertParagraph(
+            "Microsoft Office has several versions, including Office 2016, Microsoft 365 subscription, and Office on the web.",
+            "Start"
+        );
+        let paragraphs = context.document.body.paragraphs;
+        paragraphs.load("items");
+        return context.sync().then(function () {
+            let list = paragraphs.items[1].startNewList();
+            // insert the list at the start location
+            list.insertParagraph("My 0 item at start3", Word.InsertLocation.start);
+
+        })
+        //return context.sync();
+    }).catch(function (error) {
+        console.log('Error: ' + JSON.stringify(error));
+        if (error instanceof OfficeExtension.Error) {
+            console.log('Debug info: ' + JSON.stringify(error.debugInfo));
+        }
+    });
+}
+
+function FormatBulletedList_New() {
+
+    Word.run(function (context) {
+        let wordLists = context.document.body.lists;
+
+        return context.sync().then(function () {
+            // grab the first list
+            let firstList = wordLists.getFirstOrNullObject();
+
+            // set the bullet design for the first level
+            firstList.setLevelBullet(0, Word.ListBullet.diamonds);
+
+            // set indent level for the first level to 50 points, 20 points for images
+            firstList.setLevelIndents(0, 50, 20);
+        })
+    }).catch(function (error) {
+        console.log('Error: ' + JSON.stringify(error));
+        if (error instanceof OfficeExtension.Error) {
+            console.log('Debug info: ' + JSON.stringify(error.debugInfo));
+        }
+    });
+
 }
 
 // #endregion 

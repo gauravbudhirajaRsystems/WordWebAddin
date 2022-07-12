@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj": {}
+    "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj": {}
   },
   "projects": {
-    "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj": {
+    "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj",
+        "projectUniqueName": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj",
         "projectName": "WordAnalyzerRestApi",
-        "projectPath": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj",
-        "packagesPath": "C:\\Users\\gaurav\\.nuget\\packages\\",
-        "outputPath": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\obj\\",
+        "projectPath": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\WordAnalyzerRestApi.csproj",
+        "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
+        "outputPath": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordAnalyzerRestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gaurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://literanuget.azurewebsites.net/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/litera/Default/_packaging/Litera/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj": {
-                "projectPath": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj"
+              "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj": {
+                "projectPath": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj"
               }
             }
           }
@@ -61,15 +63,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj": {
+    "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj",
+        "projectUniqueName": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj",
         "projectName": "WordSharedCodeLibrary",
-        "projectPath": "D:\\Git Projects\\SampleProjects\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj",
+        "projectPath": "C:\\R Systems Git\\WordWebAddin\\WordSharedCodeAddIn\\WordSharedCodeLibrary\\WordSharedCodeLibrary.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

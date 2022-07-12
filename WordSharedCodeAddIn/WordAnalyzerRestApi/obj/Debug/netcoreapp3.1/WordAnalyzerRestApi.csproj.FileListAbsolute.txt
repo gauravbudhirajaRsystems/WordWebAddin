@@ -20,3 +20,25 @@ D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.dll
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.pdb
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.genruntimeconfig.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.exe
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.deps.json
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.runtimeconfig.json
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.runtimeconfig.dev.json
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordAnalyzerRestApi.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordSharedCodeLibrary.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\bin\Debug\netcoreapp3.1\WordSharedCodeLibrary.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.csproj.AssemblyReference.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.AssemblyInfoInputs.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.AssemblyInfo.cs
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.csproj.CoreCompileInputs.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\staticwebassets\WordAnalyzerRestApi.StaticWebAssets.Manifest.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.RazorTargetAssemblyInfo.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.csproj.CopyComplete
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordAnalyzerRestApi\obj\Debug\netcoreapp3.1\WordAnalyzerRestApi.genruntimeconfig.cache

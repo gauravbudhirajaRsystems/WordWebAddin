@@ -4,3 +4,9 @@ D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Deb
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.csproj.CoreCompileInputs.cache
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.dll
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\bin\Debug\WordSharedCodeLibrary.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\bin\Debug\WordSharedCodeLibrary.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.csproj.AssemblyReference.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.csproj.CoreCompileInputs.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordSharedCodeLibrary\obj\Debug\WordSharedCodeLibrary.pdb

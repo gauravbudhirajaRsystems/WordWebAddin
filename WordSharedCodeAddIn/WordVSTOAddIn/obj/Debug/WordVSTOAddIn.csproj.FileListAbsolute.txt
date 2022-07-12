@@ -13,3 +13,18 @@ D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordV
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.pdb
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordSharedCodeLibrary.dll
 D:\Git Projects\SampleProjects\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordSharedCodeLibrary.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordVSTOAddIn.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordVSTOAddIn.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordVSTOAddIn.dll.manifest
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordVSTOAddIn.vsto
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordSharedCodeLibrary.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\bin\Debug\WordSharedCodeLibrary.pdb
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.csproj.AssemblyReference.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.Properties.Resources.resources
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.WordDocumentAnalyzer.resources
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.csproj.GenerateResource.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.csproj.CoreCompileInputs.cache
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.csproj.CopyComplete
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.dll
+C:\R Systems Git\WordWebAddin\WordSharedCodeAddIn\WordVSTOAddIn\obj\Debug\WordVSTOAddIn.pdb
